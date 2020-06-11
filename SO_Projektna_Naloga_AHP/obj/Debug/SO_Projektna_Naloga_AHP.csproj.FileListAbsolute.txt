@@ -1,0 +1,10 @@
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\bin\Debug\SO_Projektna_Naloga_AHP.exe.config
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\bin\Debug\SO_Projektna_Naloga_AHP.exe
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\bin\Debug\SO_Projektna_Naloga_AHP.pdb
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\obj\Debug\SO_Projektna_Naloga_AHP.csprojAssemblyReference.cache
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\obj\Debug\SO_Projektna_Naloga_AHP.Form1.resources
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\obj\Debug\SO_Projektna_Naloga_AHP.Properties.Resources.resources
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\obj\Debug\SO_Projektna_Naloga_AHP.csproj.GenerateResource.cache
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\obj\Debug\SO_Projektna_Naloga_AHP.csproj.CoreCompileInputs.cache
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\obj\Debug\SO_Projektna_Naloga_AHP.exe
+C:\Users\j6bou\source\repos\SO_Projektna_Naloga_AHP\SO_Projektna_Naloga_AHP\obj\Debug\SO_Projektna_Naloga_AHP.pdb
