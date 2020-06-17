@@ -1,2 +1,2 @@
 # AHP Metoda
- Analitični hierarhični proces
+Implementacija analitično hierarhičnega procesa v jeziku C#.
