@@ -37,6 +37,7 @@ The AHP converts these evaluations to numerical values that can be processed and
 
 In the final step of the process, numerical priorities are calculated for each of the decision alternatives. These numbers represent the alternatives' relative ability to achieve the decision goal, so they allow a straightforward consideration of the various courses of action.
 
+This is an implementation of aforementioned process in the C# language.
 
 ### Built With
 
