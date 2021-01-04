@@ -23,7 +23,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
 The analytic hierarchy process (AHP) is a structured technique for organizing and analyzing complex decisions, based on mathematics and psychology. It represents an accurate approach for quantifying the weights of decision criteria.
 
 AHP has particular application in group decision making, and is used around the world in a wide variety of decision situations, in fields such as government, business, industry, healthcare, shipbuilding and education.
@@ -37,7 +36,6 @@ Once the hierarchy is built, the decision makers systematically evaluate its var
 The AHP converts these evaluations to numerical values that can be processed and compared over the entire range of the problem. A numerical weight or priority is derived for each element of the hierarchy, allowing diverse and often incommensurable elements to be compared to one another in a rational and consistent way. This capability distinguishes the AHP from other decision making techniques.
 
 In the final step of the process, numerical priorities are calculated for each of the decision alternatives. These numbers represent the alternatives' relative ability to achieve the decision goal, so they allow a straightforward consideration of the various courses of action.
-</p>
 
 
 ### Built With
