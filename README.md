@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/Quiirex/AHP-Metoda">
+  <a href="https://github.com/Quiirex/AHP-Method">
   </a>
 
   <h1 align="center">AHP Method</h1>
@@ -14,9 +14,9 @@
     A WF framework based AHP method program, that helps you make decisions
   <br/>
   <br/>
-    <a href="https://github.com/Quiirex/AHP-Metoda/issues">Report Bug</a>
+    <a href="https://github.com/Quiirex/AHP-Method/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Quiirex/AHP-Metoda/issues">Request Feature</a>
+    <a href="https://github.com/Quiirex/AHP-Method/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,15 +47,15 @@ This is an implementation of aforementioned process in the C# language.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Quiirex/4us2watch.svg?style=for-the-badge
-[contributors-url]: https://github.com/Quiirex/4us2watch/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Quiirex/4us2watch.svg?style=for-the-badge
-[forks-url]: https://github.com/Quiirex/4us2watch/network/members
-[stars-shield]: https://img.shields.io/github/stars/Quiirex/4us2watch.svg?style=for-the-badge
-[stars-url]: https://github.com/Quiirex/4us2watch/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Quiirex/4us2watch.svg?style=for-the-badge
-[issues-url]: https://github.com/Quiirex/4us2watch/issues
-[license-shield]: https://img.shields.io/github/license/Quiirex/4us2watch.svg?style=for-the-badge
-[license-url]: https://github.com/Quiirex/4us2watch/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Quiirex/AHP-Method.svg?style=for-the-badge
+[contributors-url]: https://github.com/Quiirex/AHP-Method/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Quiirex/AHP-Method.svg?style=for-the-badge
+[forks-url]: https://github.com/Quiirex/AHP-Method/network/members
+[stars-shield]: https://img.shields.io/github/stars/Quiirex/AHP-Method.svg?style=for-the-badge
+[stars-url]: https://github.com/Quiirex/AHP-Method/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Quiirex/AHP-Method.svg?style=for-the-badge
+[issues-url]: https://github.com/Quiirex/AHP-Method/issues
+[license-shield]: https://img.shields.io/github/license/Quiirex/AHP-Method.svg?style=for-the-badge
+[license-url]: https://github.com/Quiirex/AHP-Method/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Quiirex
