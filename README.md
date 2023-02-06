@@ -10,7 +10,7 @@
   <h1 align="center">AHP Method</h1>
 
   <p align="center">
-    A WF framework based AHP method program, that helps you make decisions
+    A WF framework based AHP method implementation application that helps you make an informed decision
   <br/>
   <br/>
     <a href="https://github.com/Quiirex/AHP-Method/issues">Report Bug</a>
